@@ -1,14 +1,16 @@
+SELECT * FROM life WHERE happiness = 'data'; 😄
+
 ## Hi there, I'm Mabel Fafali Kwadzo! 👋
 
 I have a deep passion for data and design, which naturally led me to the world of Data Analytics where I get to blend both skills seamlessly.
 
-💡 Skills: Excel | SQL | Power BI | Python
-
-📊 Turning raw data into meaningful insights
-
-📈 Always exploring new ways to visualize and tell data-driven stories
+📈 I'm always exploring new ways to visualize and tell data-driven stories
 
 I thrive on continuous learning, and at this point, data analytics is my everyday meal 🍽️
+
+📊 I enjoy turning raw data into meaningful insights
+
+💡 Skills: Excel | SQL | Power BI | Python
 
 Fun fact: I sleep and wake up thinking about data 😆
 
