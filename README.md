@@ -18,7 +18,7 @@ Fun fact: I sleep and wake up thinking about data 😆
 
 [LinkedIn](www.linkedin.com/in/mabelfafalikwadzo)
 
-[Portfolio](To be linked Soon)
+[Portfolio](https://mabelfafalikwadzo.vzy.io/)
 
 
 <!---
